@@ -1,2 +1,1 @@
-# Cocane
-![alt text](demo.png)
+<img src="demo.png" width="48">
