@@ -1,7 +1,6 @@
-# cocane_app
+# Cocane
 
-A new Flutter project.
-
+Report Anonymously 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
